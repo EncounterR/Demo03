@@ -4,7 +4,11 @@ import java.io.*;
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
-
+/**
+ * 第二次测试修改
+ * @author WU
+ *
+ */
 public class Main implements ActionListener {
 	JFrame frame = new JFrame("激活码生成器");
 	JTabbedPane tabPane = new JTabbedPane();// 选项卡布局
